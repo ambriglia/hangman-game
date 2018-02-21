@@ -1,0 +1,10 @@
+.header-logo {
+    background: url('../images/nintendo-logo.png') no-repeat center;
+    background-size: contain;
+    width: 800px;
+    height: 300px;
+}
+
+.hello {
+    color: green;
+}
