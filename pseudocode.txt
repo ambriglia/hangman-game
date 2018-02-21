@@ -1,1 +1,10 @@
-steps...
+1. create basic 1 row 2 column bootstrap grid layout with static content
+2. attach function to onkeyup event. log key pressed.
+3. create an array of possible characters, 2 for simplicity, and choose random guess on load.
+4. create a variable to hold all of the keys pressed.
+5. display message to user if user inputs a key already pressed.
+6. check to see if user inputs a correct key, if so keep track of that key and display to user.
+7. create var to hold win total and display to user.
+8. once user guesses the correct character, increase win counter, reset game, update dom.
+9. enforce 12 guess limit. if user loses, reset game.
+10. add styling. add image/sound to display if user guesses right.
